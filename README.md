@@ -12,11 +12,13 @@ HTMLPad: https://www.htmlpad.net/
 #### Function:
 
 **Join Lines**
+
 ![Join Lines](http://i.imgur.com/Seze1J8.png "Join Lines GUI")
 
 Join multiple lines into a single line. With optional delimiter and quote wrapping.
 
 **Split Line(s)**
+
 ![Split Lines](http://i.imgur.com/ATlRKrF.png "Split Lines GUI")
 
 Split Line(s) at delimiter or at every nth position.
